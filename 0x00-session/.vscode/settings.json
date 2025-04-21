@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "hamody_putchar.h": "c",
+        "unistd.h": "c"
+    }
+}
